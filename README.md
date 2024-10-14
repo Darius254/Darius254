@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darius254
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning new technologies.
+- 🌱 This is my portfolio https://dariuskibagendi.netlify.app/
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me dariuskibagendi@yahoo.com/dariuskibagendi@gmail.com
 
